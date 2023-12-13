@@ -1,0 +1,3 @@
+Scaffold-DbContext "server=localhost; port=3306; database=message_broker; user=root; password=asdf1234@#;" Pomelo.EntityFrameworkCore.MySql -OutputDir Models -f
+
+ 
